@@ -1,0 +1,173 @@
+h1 {
+    color: lightgray;
+    font-size: 500%;
+    margin-bottom: 0%;
+    margin-top: auto;
+}
+h5 {
+    color: lightgray;
+    margin-top: 0%;
+}
+body  {
+    background-image: url('https://image.api.playstation.com/vulcan/img/cfn/11307beluGq0SO4-dqIevRAKnuYU-hs2n9oqxsSitAxewEH8dX32eH6cDSt29sMFte8lQEG-2CvTYaGGEllg0vS6jsECJJGo.png');  
+    background-size: 1400px;
+    margin: 50px
+}
+.contextParagraph {
+    display: none;
+}
+.x1 {
+visibility: hidden;
+}
+.startJumpscare {
+    display: none;
+    margin-left: 0px;
+    position: absolute;
+}
+.startJumpscareButton {
+    display: none;
+}
+.jumpscareAudio {
+    display: none;
+}
+.screenOne {
+    display: none;
+    color: white;
+}
+.welcome {
+    text-align: center;
+    margin-top:110px;
+}
+/* WORK IN PROGRESS
+
+.nose {
+    width: 20px;
+}
+.nosebutton {
+    background-color: black;
+    border-color: black;
+    color: black;
+    border: none;
+}
+
+*/
+
+.nextArrow {
+    width: 75px;
+}
+.nextArrowButton {
+    size: 5px;
+    border: none;
+    align-content: center;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 630px;
+}
+
+.screenTwo {
+    display: none;
+    color: white;
+}
+.woah {
+    text-align: center;
+    margin-top:105px;
+    margin-left:805px;
+    width: 500px;
+    -webkit-text-stroke-width: .45px;
+    -webkit-text-stroke-color: black;
+}
+.wyd {
+    text-align: center;
+    margin-top: 340px;
+}
+.actionOneButtons {
+    margin-left: 430px;
+}
+.actionOneText {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    font-size: larger;
+}
+
+.foxy {
+    display: none;
+    margin-left: 0px;
+    position: absolute;
+}
+.foxyButton {
+    display: none;
+}
+.foxyMessage {
+    display: none;
+    width: 440px;
+    text-align: center;
+    margin-top: 460px;
+    margin-left: 450px;
+}
+.bonnieDeath {
+    display: block;
+}
+
+.bonnie {
+    display: none;
+    margin-left: 0px;
+    position: absolute;
+}
+.bonnieButton {
+    display: none;
+}
+
+.bonnieMessage {
+    display: none;
+    color: white;
+    width: 340px;
+    text-align: center;
+    margin-top: -130px;
+    margin-left: 510px;
+}
+
+.restartButton {
+    display: none;
+    size: 50%;
+    margin-left: 642px;
+}
+.restart {
+    width: 40px;
+}
+.blockScreen {
+    display: none;
+}
+.blockMessage {
+    color: white;
+    width: 340px;
+    text-align: center;
+    margin-left: 510px;
+    margin-top: 500px;
+    margin-bottom: -10px;
+}
+.nextArrowButton2 {
+    margin-top: 50px;
+    size: 5px;
+    border: none;
+    align-content: center;
+    position: absolute;
+    margin-left: 630px;
+}
+.nextArrow2 {
+    width: 75px;
+}
+.winScreen {
+    display: none;
+    color: black;
+}
+.winMessage {
+    text-align: center;
+    margin-top:110px;
+}
+.winGIF {
+    margin-left: -100px;
+    margin-top: -230px;
+}
+.sixAMAudio {
+    display: none;
+}
